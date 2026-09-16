@@ -1,4 +1,6 @@
 # scenetemplates
+see https://github.com/caave24/howto
+see https://github.com/caave24/scenetemplates/
 
 - Use Blockbench to create assets.
 - Develop assets into videos.
