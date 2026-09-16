@@ -16,3 +16,4 @@ Generalized concepts:
 - Numbers
 - Who? What? When? Where? How? Why?
 - Iconography / Icon Font that is 'presented' {sweep in / sweep out} {fade in / fade out}
+- Flow/Pipeline
